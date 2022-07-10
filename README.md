@@ -24,4 +24,4 @@
 
 ## 🗣️ About
 
-  the purpose of this project is to get a calculator view using object oriented programming and gui.
+  	The purpose of this project is to get a calculator view using object oriented programming and gui.
